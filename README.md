@@ -4,7 +4,9 @@
 pip install redis or pip3 install redis
 
 Clone repository
+```
 git clone git@github.com:rasulovk/socket_chat.git
+```
 
 Entry in folder
 cd socket_chat
